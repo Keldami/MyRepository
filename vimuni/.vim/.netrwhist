@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/cip/2014/du05dyti'
+let g:netrw_dirhist_2='/home/cip/2014/du05dyti/sp/snail'
+let g:netrw_dirhist_3='/home/cip/2014/du05dyti/sp/clash'
+let g:netrw_dirhist_4='/home/cip/2014/du05dyti/CG/Skeleton/resources/css'
+let g:netrw_dirhist_5='/home/cip/2014/du05dyti/CG/Skeleton/resources/js'
+let g:netrw_dirhist_6='/home/cip/2014/du05dyti/ki'

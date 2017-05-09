@@ -1,0 +1,7 @@
+install YouCompleteMe
+
+copy from browser into vim with mouse 
+mouse right click options
+
+
+
